@@ -5,7 +5,7 @@ Deploy a contract on Berachain using Remix
 ![image](https://private-user-images.githubusercontent.com/120288410/356133383-3e1a973c-94da-4b4e-a7fe-c381834d9c66.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMxMDQzMjMsIm5iZiI6MTcyMzEwNDAyMywicGF0aCI6Ii8xMjAyODg0MTAvMzU2MTMzMzgzLTNlMWE5NzNjLTk0ZGEtNGI0ZS1hN2ZlLWMzODE4MzRkOWM2Ni5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwOFQwODAwMjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YWUxNTI0OTY5YWE5MTFiMmYzMTEyY2EwYzUyZDkwYzQ0ZDVlN2JmZDgyOTEzMDcyMGEyMzUwMjdmYzQ1ZmUyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.sujV9E6Orb6io4d5cDpE5t8Ktxq0v0z9voGbw_FlADU)
 
 
-1.   Download this Workspace [BerSpace Backup.zip](https://github.com/user-attachments/files/16540073/BeraSpace.Backup.zip)
+1.   Download this Workspace [BeraSpace Backup.zip](https://github.com/user-attachments/files/16540073/BeraSpace.Backup.zip)
 
 2.   Goto Remix IDE by clicking <a href=https://remix.ethereum.org/>here
 
